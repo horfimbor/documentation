@@ -12,3 +12,15 @@ Le jeu se distinguera par les aspects suivant :
 - la guerre économique ( blocus ) sera présente.
 - chaque joueur pourra avoir sa civilisation unique.
 - pas de contrainte du genre multicompte / compte partagé / bot ...
+
+## MVP : 
+
+- login ( sécurité via jwt )
+- carte de "l'univers"
+- système solaires
+- planètes
+- population
+- production / stockage de ressources
+- récolte d'astéroïdes
+- déplacement de ressources
+- combat spatial ( basé sur shi fuu mi )
