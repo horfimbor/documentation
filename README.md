@@ -1,4 +1,4 @@
-Sorry it will be in French only first.
+Sorry it will be in French only.
 
 # documentation
 Documentation technique et fonctionnel
